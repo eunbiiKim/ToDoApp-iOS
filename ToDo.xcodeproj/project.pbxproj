@@ -49,6 +49,7 @@
 		7B16D5FA22B4CB8000ADFF34 /* ToDoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToDoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B16D5FE22B4CB8000ADFF34 /* ToDoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoUITests.swift; sourceTree = "<group>"; };
 		7B16D60022B4CB8000ADFF34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7B16D60C22B4CD2600ADFF34 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		7B16D5CF22B4CB7F00ADFF34 = {
 			isa = PBXGroup;
 			children = (
+				7B16D60C22B4CD2600ADFF34 /* README.md */,
 				7B16D5DA22B4CB7F00ADFF34 /* ToDo */,
 				7B16D5F222B4CB8000ADFF34 /* ToDoTests */,
 				7B16D5FD22B4CB8000ADFF34 /* ToDoUITests */,
