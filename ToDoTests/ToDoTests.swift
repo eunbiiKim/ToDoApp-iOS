@@ -6,11 +6,10 @@
 //  Copyright © 2019 Busan iOS. All rights reserved.
 //
 
-import XCTest
 @testable import ToDo
+import XCTest
 
 class ToDoTests: XCTestCase {
-
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
     }
@@ -30,5 +29,4 @@ class ToDoTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
-
 }
